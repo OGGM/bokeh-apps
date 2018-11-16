@@ -1,0 +1,14 @@
+name: bokeh-oggm-env
+channels:
+  - pyviz/label/dev
+  - conda-forge
+dependencies:
+  - numpy>=1.15.1
+  - pandas
+  - scipy
+  - nbserverproxy
+  - param=1.8.1
+  - panel=0.1.2
+  - holoviews=1.11.0a8
+  - geoviews=1.5.4a13
+
